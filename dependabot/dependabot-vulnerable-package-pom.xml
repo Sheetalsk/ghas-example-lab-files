@@ -154,9 +154,9 @@
   <dependencyManagement>
     <dependencies>
       <dependency>
-        <groupId>org.apache.hive</groupId>
-        <artifactId>hive-llap-common</artifactId>
-        <version>3.1.3</version>
+        <groupId>org.apache.james.protocols</groupId>
+        <artifactId>protocols-imap</artifactId>
+        <version>3.8.0</version>
       </dependency>
       <dependency>
         <groupId>org.ow2.asm</groupId>
