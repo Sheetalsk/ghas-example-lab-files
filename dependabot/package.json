@@ -12,7 +12,8 @@
     "core-js": "^3.8.0",
     "vue": "^3.2.11",
     "vue-router": "4",
-    "lodash": "4.17.20"
+    "lodash": "4.17.20",
+    "marked": "0.3.6"    
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
