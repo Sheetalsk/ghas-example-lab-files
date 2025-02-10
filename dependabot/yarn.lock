@@ -7,7 +7,7 @@
   resolved "https://registry.yarnpkg.com/@achrinza/node-ipc/-/node-ipc-9.2.9.tgz#ab4815d9b16f1c83a479fe8791522a3abebb1c6a"
   integrity sha512-7s0VcTwiK/0tNOVdSX9FWMeFdOEcsAOz9HesBldXxFMaGvIak7KC2z9tV9EgsQXn6KUsWsfIkViMNuIo0GoZDQ==
   dependencies:
-    "@node-ipc/js-queue" "2.0.3"
+    "@node-ipc/js-queue" "2.0.1"
     event-pubsub "4.3.0"
     js-message "1.0.7"
 
