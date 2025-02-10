@@ -156,7 +156,7 @@
       <dependency>
         <groupId>org.apache.james.protocols</groupId>
         <artifactId>protocols-imap</artifactId>
-        <version>3.8.0</version>
+        <version>3.8.2</version>
       </dependency>
       <dependency>
         <groupId>org.ow2.asm</groupId>
@@ -264,7 +264,7 @@
       <dependency>
         <groupId>org.apache.commons</groupId>
         <artifactId>commons-compress</artifactId>
-        <version>1.25.0</version>
+        <version>1.26.0</version>
       </dependency>
       <dependency>
         <groupId>org.jruby</groupId>
